@@ -1,8 +1,15 @@
 body {
     font-family: "Montserrat", sans-serif;
-    background: #f5f5f5;
-    margin: 0;
+    
+    background-image: url("img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    margin:  auto;
     padding: 40px 20px;
+    width: 1100px;
+
 }
 
 .title {
@@ -15,7 +22,7 @@ body {
 }
 
 .cards {
-    max-width: 1200px;
+    max-width: 1100px;
     margin: 0 auto;
 
     display: flex;
