@@ -5,8 +5,6 @@ firstCardButton.addEventListener("click", function () {
     const firstCard = document.querySelector(".product-card");
     firstCard.style.backgroundColor = "lightgreen";
 });
-
-// Кнопка 2
 const allCardsButton = document.querySelector("#change-color-all-cards");
 
 allCardsButton.addEventListener("click", function () {
