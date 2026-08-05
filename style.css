@@ -105,7 +105,6 @@ body {
 .product-card__item {
     margin-bottom: 4px;
 }
-
 .product-card__price-row {
     margin-top: auto;
 
@@ -113,14 +112,12 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-
 .product-card__price-label {
     font-weight: 700;
     font-size: 20px;
 
     color: #515076;
 }
-
 .product-card__price {
     font-weight: 400;
     font-size: 20px;
