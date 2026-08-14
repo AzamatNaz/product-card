@@ -1,4 +1,3 @@
-
 const firstCardButton = document.querySelector("#change-color-first-card");
 
 firstCardButton.addEventListener("click", function () {
